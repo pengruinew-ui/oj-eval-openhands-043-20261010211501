@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+// Solution for ACMOJ problem 14296 - final verification
 using namespace std;
 
 namespace LIST {
@@ -104,6 +105,7 @@ namespace LIST {
     }
 }
 
+// Entry point
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
