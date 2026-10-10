@@ -1,5 +1,7 @@
 # Problem 043 - 小可怜的双链表
 
+<!-- Updated for final submission -->
+
 **ACMOJ Problem ID**: 14296
 
 ## Table of Contents
